@@ -1,5 +1,5 @@
 {
-  "name": "nextal",
+  "name": "portfolio",
   "private": false,
   "description": "Starter template for Next with TypeScript. Supports Tailwind with CSS-Modules. Jest and @react/testing-library configured and ready to go. Also ESLint, Prettier, Husky, Commit-lint and Atomic Design for components.",
   "homepage": "https://github.com/jvidalv/nextal#readme",
@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/jvidalv/nextal.git"
   },
-  "author": "Josep Vidal <josepvidalvidal@gmail.com>",
+  "author": "Alejandro Suárez <alex.snako@hotmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jvidalv/nextal/issues"

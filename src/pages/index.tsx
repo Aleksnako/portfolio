@@ -84,7 +84,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Nextal - Next Starter Template</title>
+        <title>Alejandro Suárez Portfolio</title>
         <meta
           name="description"
           content="NextJs starter template using TypeScript and Tailwind"
